@@ -1,6 +1,6 @@
 ![image_2025-03-28_12-02-42](https://github.com/user-attachments/assets/33f97d9f-a2c4-4d8a-8ccc-f538db099c5a)
 
-# 超自然探險系列 PPT版
+# [超自然探險系列 PPT版](https://github.com/NiktoBlox/Supernatural-Exploration-Series)
 NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐怖、超自然及有趣的密室逃脫
 ## 《Room》 | [探險百科]()
 續集： 
